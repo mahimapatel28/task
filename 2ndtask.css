@@ -1,0 +1,10 @@
+ol{
+color: rgb(165, 22, 22);
+}
+body{
+    background-image: linear-gradient(yellow,green,aqua, pink);
+}
+ol{
+    background-color: brown;
+    width: fit-content;
+}
